@@ -25,7 +25,7 @@ token.txt
 
 启动机器人：
 
-     python checkIn.py
+     python bot.py
   
     
 
